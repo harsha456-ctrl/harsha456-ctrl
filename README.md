@@ -38,7 +38,7 @@ Python Programming
 
 Java Programming
 
-🌐 Connect with Me
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arumulla%20Venkata%20Harshavardhan%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arumulla-venkata-harshavardhan-reddy-98011a2a9)
